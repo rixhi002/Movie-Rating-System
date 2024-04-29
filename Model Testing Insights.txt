@@ -1,0 +1,2 @@
+Insights:
+We took the original data from X.head() and created a new dataframe almost similar to row 3. The original rating was 5.9. Out trained random forest regressor predicted 5.85 on unseen data. Therefore, showing the robustness of model.

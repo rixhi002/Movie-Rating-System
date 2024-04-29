@@ -1,0 +1,8 @@
+Insights:
+The Year with highets rating on average is 1944.
+We can also see that from 1984, there is a downward trend for ratings until 1993, and the Fare
+Then after 2013, there is a conntinous upward trend for movies rating
+Furthermore, the insights reveal that in Year 2010, some movies were released that have the highest votes on average
+Moreover, in terms of Genre, the Drama has the highest rating since it's start
+It can be observed that Comedy Genre was started in 1953 and the year 1964 was the start of Action Genre
+The Short duration movies seems to get high ratings and votes, signifying that people may get bored with long duration movies

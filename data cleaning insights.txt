@@ -1,0 +1,5 @@
+Insights:
+Every column had null values except name column
+We also found that the following columns: Name, Year, Duration, Genre, and Votes had typos that were corrected later
+The null values in most of the columns were dropped and for Genre, it was filled with the mode value
+Later, we checked the duplicated values and dropped them based on Name column

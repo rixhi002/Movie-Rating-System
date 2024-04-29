@@ -1,0 +1,5 @@
+Insights:
+The analysis revealed that the first year is 1931 in the dataset and there's a movie that have just 45 min duration
+Furthermore, the drame genre is quite famous and first main actor with highest count is Mithun
+The analysis also reveals about the best performing and worst movies based on votes and ratings as can be seen above
+Information about directors who directed most and least of the movies can be seen above

@@ -1,0 +1,2 @@
+Insights:
+The performance evaluation revealed that Random Forest performed well than the Logistic Regression in terms of, r2_score which is 0.94

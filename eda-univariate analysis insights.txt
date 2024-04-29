@@ -1,0 +1,8 @@
+Insights:
+The distribution of Year is skewed towards left with a high concentration of movies directed in between 2015-2019
+
+The duration of movies has a guassian distribution with a very few outliers
+
+The distribution of Rating is also having a guassian distribution with a high concentration of 6.6 and 6.7
+
+The number of votes has a plenty of outliers
